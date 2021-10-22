@@ -62,7 +62,7 @@ The analysis of the success of play campaigns based on the amount targeted for t
     
 Based on the finding of the analysis of the Kickstarter campaigns outcomes in relation to the targeted goal amount the target goal should be restricted to less than $20000.00.  The lower campaign goals have a higher proportion of success and also provide publicity on the Kickstarter website.
 
-###Limitations
+### Limitations
 
 The analysis of the Kickstarter data did show some trends for the successful launch of the a fundraising campaign using this platform.  The dataset however does have some limitations.  The quality of the campaigns material used to highlight the project cannot be determined from the data.  Additionally the type of plays being promoted (eq. comedy vs drama) is not evident within the dataset being used.  This factors can have a significant impact on the outcome of the campaign.
 
@@ -81,7 +81,7 @@ From the dataset used there are some additional graphs that could be created to 
         * Remember your audience
         * Don’t spam
 
-[^1] <https://www.crowdcrux.com/become-kickstarter-staff-pick/
+[^1]: <https://www.crowdcrux.com/become-kickstarter-staff-pick/
 
 [Graph of Outcomes based on Staff Picks](resourses/Campaign_Outcomes_vs_Staff_Picks.png)
 
