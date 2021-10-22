@@ -83,10 +83,10 @@ From the dataset used there are some additional graphs that could be created to 
 
 [^1]: <https://www.crowdcrux.com/become-kickstarter-staff-pick/
 
-[Graph of Outcomes based on Staff Picks](resourses/Campaign_Outcomes_vs_Staff_Picks.png)
+[Graph of Outcomes based on Staff Picks](resources/Campaign_Outcomes_vs_Staff_Picks.png)
 
 2. Analysis of the outcome of campaigns based on the average donation amount for campaigns
     * Provide a guideline for creating incentives used during the Kickstarter campaign
     * Can give a benchmark during the campaign to see determine the likelyhood of success based on donation amounts.
     
-[Graph of Outcomes based on Average Donation](resourses/Outcomes_by_Avg_Donation.png)
+[Graph of Outcomes based on Average Donation](resources/Outcomes_by_Avg_Donation.png)
