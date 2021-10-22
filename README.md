@@ -16,13 +16,13 @@ ___
 
 Using the data collected we looked at trends of the campaign outcomes based on the date that the campaign was launched.  This analysis looked at all the campaigns over the 10 year period focusing on the start date and the broad category of the campaigns were classified within.  The campaigns were summarized based on the month of the launch and a count of the successful, failed and canceled campaigns.  From this data we created the following chart:
 
-![Graph of Outcomes Based on Launch Date](
+![Graph of Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Using the same dataset the trends of the outcome of Kickstarter campaigns based on the goal amount that was targeted for the project.  This analysis was focused on theater projects that were launched in a campaign which includeds plays within the main category.  The campaigns were summarized on the basis of the outcome of the campaign and the value of the target goal required to meet the target.  Based on this date the following chart was developed:
 
-![Graph of Outcomes Based on Goals](
+![Graph of Outcomes Based on Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -83,10 +83,10 @@ From the dataset used there are some additional graphs that could be created to 
 
 [^1] <https://www.crowdcrux.com/become-kickstarter-staff-pick/
 
-[Graph of Outcomes based on Staff Picks](
+[Graph of Outcomes based on Staff Picks](resourses/Campaign_Outcomes_vs_Staff_Picks.png)
 
 2. Analysis of the outcome of campaigns based on the average donation amount for campaigns
     * Provide a guideline for creating incentives used during the Kickstarter campaign
     * Can give a benchmark during the campaign to see determine the likelyhood of success based on donation amounts.
     
-[Graph of Outcomes based on Average Donation](
+[Graph of Outcomes based on Average Donation](resourses/Outcomes_by_Avg_Donation.png)
